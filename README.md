@@ -3,10 +3,6 @@
 💼 I'm a Frontend Web Developer, working mostly with React.
 💻 I’m looking to collaborate on interesting web apps together
 
-## 📊 My GitHub Stats
-
-![b-pieta's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-pieta&count_private=true&show_icons=true&theme=radical)
-
 ## 🔨 Languages and Tools:
 
 Here are some of the languages and tools I frequently use:
