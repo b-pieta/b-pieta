@@ -5,7 +5,7 @@
 
 ## 📊 My GitHub Stats
 
-![b-pieta's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-pieta&show_icons=true&theme=radical)
+![b-pieta's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-pieta&count_private=true&show_icons=true&theme=radical)
 
 ## 🔨 Languages and Tools:
 
