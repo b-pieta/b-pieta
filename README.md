@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello, I'm Bożena Pięta 👋
 
-<!--
-**b-pieta/b-pieta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 I'm a Frontend Web Developer, working mostly with React.
+💻 I’m looking to collaborate on interesting web apps together
 
-Here are some ideas to get you started:
+## 📊 My GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![b-pieta's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-pieta&show_icons=true&theme=radical)
+
+## 🔨 Languages and Tools:
+
+Here are some of the languages and tools I frequently use:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-pieta&layout=compact)
+
+
+## 📫 How to reach me
+
+You can reach me at my [email](bozena.pieta95@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/bozena-pieta/)
+
+Thanks for stopping by!
