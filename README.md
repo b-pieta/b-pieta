@@ -1,5 +1,6 @@
 # Hello, I'm Bożena Pięta 👋  
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=SLICE&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=70.&descAlignY=44)
+![shark](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=140)
+
 
 💼 I'm a passionate developer with a strong focus on front-end technologies and a keen interest in logic.  
 💻 I love to work with React, TypeScript, and Tailwind but I'm always open to learning new stacks!  
