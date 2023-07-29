@@ -11,7 +11,7 @@
 
 ## Technologies and Skills
 
-![Top Langs](https://your-vercel-app-name.vercel.app/api/top-langs/?username=b-pieta&count_private=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-pieta&count_private=true&theme=tokyonight)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
